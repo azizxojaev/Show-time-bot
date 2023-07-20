@@ -5,7 +5,7 @@ import pytz
 from aiogram import Bot, Dispatcher, executor, types
 from reply_btn import reply_btn_func
 
-API_TOKEN = '6193917375:AAHjg5NyAYRd4slWPp-XOYDRTVssb8N4ITg'
+API_TOKEN = 'YOUR TOKEN'
 
 logging.basicConfig(level=logging.INFO)
 
